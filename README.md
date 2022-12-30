@@ -6,7 +6,9 @@ A bunch of hays for competition
 [[Code-Style]]
 
 ### Git push
-`git clone https://github.com/Liuliuliu7/hay-for-competition.git`/`git fetch`
-`git add filename`
-`git commit -m message`
-`git push`
+1. `git clone https://github.com/Liuliuliu7/hay-for-competition.git`/`git fetch`  
+2. `git add filename`  
+3. `git commit -m message`  
+4. `git push ` 
+
+   
